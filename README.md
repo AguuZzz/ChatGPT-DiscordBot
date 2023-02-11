@@ -20,11 +20,13 @@ To obtain the OpenAI API key, you will need to have an account and go to the fol
 
 https://platform.openai.com/account/api-keys
 
+![alt openaikey](https://github.com/AguuZzz/ChatGPT-DiscordBot/blob/main/screenshot2.png?raw=true)
+
 And for Discord, you will need to create an application from the following page:
 
 https://discord.com/developers/applications
 
-![alt text](https://github.com/AguuZzz/ChatGPT-DiscordBot/blob/main/screenshot.png?raw=true)
+![alt discordkey](https://github.com/AguuZzz/ChatGPT-DiscordBot/blob/main/screenshot.png?raw=true)
 
 And paste both keys in:
 
