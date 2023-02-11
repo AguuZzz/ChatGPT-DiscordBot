@@ -26,6 +26,8 @@ And for Discord, you will need to create an application from the following page:
 
 https://discord.com/developers/applications
 
+- In "Bot" option 
+
 ![alt discordkey](https://github.com/AguuZzz/ChatGPT-DiscordBot/blob/main/screenshot.png?raw=true)
 
 And paste both keys in:
